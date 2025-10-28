@@ -18,7 +18,7 @@ Ao finalizar este desafio, fui capaz de:
 ## Arquitetura Criada
 A arquitetura desenvolvida segue o diagrama abaixo:
 
-![Fluxograma](../img/Fluxograma.jpg)
+![Fluxograma](https://raw.githubusercontent.com/Kairosek1/Projeto-01/main/Img/Fluxograma.jpg)
 
 ### Explicação da Arquitetura
 1. O **usuário** faz upload de música por uma aplicação hospedada em **EC2**.
