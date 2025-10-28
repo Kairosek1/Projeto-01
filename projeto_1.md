@@ -18,7 +18,7 @@ Ao finalizar este desafio, fui capaz de:
 ## Arquitetura Criada
 A arquitetura desenvolvida segue o diagrama abaixo:
 
-<img src="Img/Fluxograma.jpg" alt="Arquitetura com EC2, S3 e Lambda" width="450" />
+![Fluxograma](../img/Fluxograma.jpg)
 
 ### Explicação da Arquitetura
 1. O **usuário** faz upload de música por uma aplicação hospedada em **EC2**.
